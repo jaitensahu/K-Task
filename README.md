@@ -1,17 +1,21 @@
 ## 1. UI Design
 Hosted Link: 
 https://jaitensahu.github.io/K-Task/ <br>
-![Screenshot (513)](https://github.com/jaitensahu/Task/assets/127736781/256d037f-6f2e-4c8b-9a7b-1912282e9faa)
+ ![Screenshot (510)](https://github.com/jaitensahu/K-Task/assets/127736781/7a9b494c-dc93-4fb5-8e09-8533918128bf)
+
 
 ## 2. Function to get value of parameter
-![Screenshot (511)](https://github.com/jaitensahu/Task/assets/127736781/485c89eb-ee86-4791-baca-c2547f1f3e04)
+ ![Screenshot (511)](https://github.com/jaitensahu/K-Task/assets/127736781/d597e288-79d9-4bf9-b6e4-35bef359223a)
+
 
 
 ## 3. Function reverse any number <br>
-![Screenshot (511)](https://github.com/jaitensahu/Task/assets/127736781/7ac9213d-c24a-4921-adb7-3e3a6806aed9)
+ ![Screenshot (511)](https://github.com/jaitensahu/K-Task/assets/127736781/f66c641c-1a24-41c8-94cb-c57ab1d86981)
+
 
 ## 4. Best project I have worked on <br>
-![Screenshot (512)](https://github.com/jaitensahu/Task/assets/127736781/2c4c786a-38fc-4fa1-8509-3a21a5f1fdfb)
+ ![Screenshot (512)](https://github.com/jaitensahu/K-Task/assets/127736781/cc19a051-d805-403c-be2b-a94a4353ed96)
+
 
 # Recipe Finder Application
 GitHub Link: https://github.com/jaitensahu/FoodBlog <br>
