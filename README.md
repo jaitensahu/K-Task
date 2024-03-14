@@ -18,7 +18,8 @@ GitHub Link: https://github.com/jaitensahu/FoodBlog <br>
 Hosted Link: https://food-blog-jaiten-sahu.vercel.app/
 
 ## Overview
-This is a Recipe Finder Application built with ReactJS, allowing users to search for recipes and view detailed information about each recipe. The application utilizes the Meal API to fetch recipe data dynamically.
+This is a Recipe Finder Application built with ReactJS, allowing users to search for recipes and view detailed information about each recipe. The application utilizes the Meal API to fetch recipe data dynamically.<br>
+I leveraged React's component-based architecture to design and implement reusable UI components, ensuring a consistent and responsive user experience across different devices and screen sizes.<br>
 Used context API to centralise and manage the application's state in a scalable and maintainable manner. By creating a context provider, I encapsulated the application's state logic and made it accessible to all components that needed access to global state.
 
 ## Features
